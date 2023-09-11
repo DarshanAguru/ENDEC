@@ -6,15 +6,15 @@ It consists of three options namely:
 - Encryption
 - Decryption
 
-#### Generate Key : 
+### Generate Key : 
   It generates the key of random letters and numbers.
   The user can generate the key and save it in local storage (Shared Preferences) so that the user doesn't have to enter the key each time for encryption and decryption.
   Users can also copy and paste the key and save it (Shared key).
 
-#### Encryption:
+### Encryption:
   It uses basic encryption using BouncyCastle Provider as a Security Provider for JCE and JCA. The plain text is written on the top text box and the encrypted text is displayed at the bottom text box.
 
-#### Decryption:
+### Decryption:
   The encrypted text is written on the top text box and the decrypted message is displayed in the bottom text box.
 
 
