@@ -18,11 +18,13 @@ It consists of three options namely:
   The encrypted text is written on the top text box and the decrypted message is displayed in the bottom text box.
 
 
-## Features
+## 🆕 Features
+
 - Saves KEY: No need to enter key every time.
 - Encrypted messages: The generated key can be shared with other users and thus encrypted sharing of messages can be achieved.
 
-## Technologies used
+## 💻 Technologies used
+
 - Kotlin
 - BouncyCastle API
 - XML
